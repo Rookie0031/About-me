@@ -1,10 +1,10 @@
 ### Hi there, I am Rookie👋
-#### Now I am learning iOS development in Apple Developer Academy(2022~)
-#### I value teamwork, technology and connection. Keep challenging, fail and learn.
+#### Now I am learning iOS development in 🍎Apple Developer Academy(2022~)
+#### I value teamwork🤝, technology👨🏻‍💻 and connection💡. Keep challenging, fail and learn.
 
 ##### [Experiences]
-##### 🏢Posco, PM/Engineer(2021~2022)
-##### 🎓Yonsei University, Mechanical Engineering (2015~2021)
+##### 🏢Posco, Project Manager/Engineer(2021~2022)
+##### 🎓Yonsei University, Mechanical Engineering B.E(2015~2021)
 
 <!--
 **Rookie0031/Rookie0031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
