@@ -1,6 +1,6 @@
 ### Hi there, I am Rookie👋
-## Now I am learning iOS development in Apple Developer Academy
-## I value teamwork, technology and connection. Keep challenging, fail and learn.
+### Now I am learning iOS development in Apple Developer Academy
+### I value teamwork, technology and connection. Keep challenging, fail and learn.
 
 ##### [Experiences]
 ##### 🏢Posco, PM/Engineer(2021~2022)
