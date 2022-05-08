@@ -1,6 +1,8 @@
-### Hi there 👋
-🏢Posco, PM/Engineer(2021~2022)
-🎓Yonsei University, Mechanical Engineering (2015~2021)
+### Hi there, I am Rookie👋
+
+## [Experiences]
+## 🏢Posco, PM/Engineer(2021~2022)
+## 🎓Yonsei University, Mechanical Engineering (2015~2021)
 
 <!--
 **Rookie0031/Rookie0031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
