@@ -4,9 +4,15 @@
 #### I value teamwork🤝 technology👨🏻‍💻 and connection💡. Keep challenging, fail and learn.
 
 ### 
-[Experiences]
+[On-going Projects]
+#### Team project(2) : An app for increasing meta-cognition, digital gift for couples
+#### Personal project(1): An app for recommending restaurants in Pohang 
+
+### [Work Experiences]
 #### 🏢Posco, Project Manager/Engineer(2021~2022)
 #### 🔬Biomedical/Energy Harvesting Lab / Research Intern (2020,winter)
+
+### [Educational Background]
 #### 🎓Yonsei University, Mechanical Engineering B.E(2015~2021)
 
 <!--
