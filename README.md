@@ -9,7 +9,7 @@
 #### Personal project(1): An app for recommending restaurants in Pohang 
 
    
-[Work Experiences]
+[Experiences]
 #### 🏢Posco, Project Manager/Engineer(2021~2022)
 #### 🔬Biomedical/Energy Harvesting Lab / Research Intern (2020,winter)
 
